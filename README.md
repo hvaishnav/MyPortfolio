@@ -1,20 +1,19 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Portfolio – HIMANSHU VAISHNAV
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/d340abc9-ab4c-44e9-8461-51643baf1e0d
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+> A clean, responsive portfolio website showcasing my work as a Full-Stack Developer
+ 
+📧 **Contact:** himanshuvaishnav1818@example.com  
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## ✨ About This Project
+
+This is my personal portfolio where I showcase my best projects, skills, and professional journey. Built with performance and accessibility in mind, it serves as both a creative outlet and a professional hub for recruiters and collaborators.
+
+**Purpose:**
+- Demonstrate technical skills through real projects
+- Provide an easy way for recruiters to contact me
+- Document my learning journey and side experiments
+
+## 🛠️ Tech Stack - For this project
+  REACT
+
